@@ -9651,6 +9651,11 @@ a.text-dark:hover, a.text-dark:focus {
 
 #mainNav .navbar-nav li.nav-item a.nav-link {
   color: #fff;
+  transition: 0.5s all;
+  -webkit-transition: 0.5s all;
+  -o-transition: 0.5s all;
+  -moz-transition: 0.5s all;
+  -ms-transition: 0.5s all;
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
